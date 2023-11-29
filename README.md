@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ulrich Ngueukam</h1>
-<h3 align="center">A passionate Frontend and Backend Development in UK</h3>
+<h3 align="center">A passionate Frontend and Backend Developer in UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulrichskills&label=Profile%20views&color=0e75b6&style=flat" alt="ulrichskills" /> </p>
 
